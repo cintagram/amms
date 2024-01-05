@@ -17,3 +17,4 @@ coandco09:coandco12
 killkellou:uollekllik
 hdwugdavdh:jhj99321
 ALETA:ALETA
+Shino:Cute_shino
