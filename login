@@ -20,3 +20,4 @@ ALETA:ALETA
 Shino:Cute_shino
 Daramgy:Daramgy123
 option:option0802
+Dorothy:Dorothy_Cat
